@@ -199,6 +199,7 @@ Our directory includes a wide range of AI tools across various categories:
     - AI Design Generator
     - AI Graphic Design
     - AI Interior & Room Design
+      - [LandscapioAI](https://www.landscapioai.com/) — AI landscape and outdoor design visualization tool for transforming yard, garden, and patio photos into design concepts.
     - AI Pixel Art
     - AI Anime Art
     - Design Assistant
